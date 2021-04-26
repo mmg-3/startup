@@ -8,8 +8,8 @@ const path = require(`path`)
 
 module.exports = {
   siteMetadata: {
-    title: "Startup",
-    titleTemplate: "%s | Helping startups get started",
+    title: "MH Nails",
+    titleTemplate: "%s | Get started",
     description: "A simple one-page site for new businesses that uses GatsbyJS",
     siteUrl: "https://thestartup.netlify.com",
     author: "Morgan Baker",
